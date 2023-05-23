@@ -1,4 +1,4 @@
-pandas
-pillow
-numpy
+pandaS
 scikit-learn
+pickle
+Json
